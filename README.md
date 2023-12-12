@@ -13,7 +13,6 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 
 - 💻 I have a basic knowledge of programming in C++ and JavaScript but I'm also intersted about learning the other languages.
 - 🌐 I getting some experience with QA Analyst and developer by my currently job.
-- 📊 I'm interested in testing, frontend and things that envolve UX Design
 - 🛠️ I use GitHub and VS Code as my main tools
 
 ## How to reach me
