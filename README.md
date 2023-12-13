@@ -18,5 +18,5 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 ## How to reach me
 
 - 📧 You can email me at lucasantunes11@icloud.com
-- 💬 You can message me on Instagram, my profile is @iolucaz
+- 💬 You can reach me on Instagram, my profile is @iolucaz
 
