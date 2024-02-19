@@ -1,6 +1,6 @@
 # Hey there, I'm Lucas 👋
 
-I'm a 21-year-old computer science student from Brazil, passionate about technology and innovation. I'm currently in my 4th period at UNESC, a university located in the southernmost part of Santa Catarina, where I'm learning how to code and solve problems with computers. 
+I'm a 21-year-old computer science student from Brazil, passionate about technology and innovation. I'm currently in my 4th period at UNESC, a university located in the southernmost part of the state of Santa Catarina, where I'm learning how to code and solve problems with computers. 
 
 ## A little more about me
 
