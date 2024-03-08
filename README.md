@@ -6,7 +6,7 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 
 - 🌎 My dream is to travel around the world and experience different cultures and languages
 - 🇧🇷 I speak Portuguese as my mother tongue and English as a second language (intermediate level)
-- 🎮 I enjoy playing video games and listen to music in my free time
+- 🎵 I enjoy listen to music and go out with friends in my free time
 - 🚀 I'm always eager to learn new things and challenge myself
 
 ## My skills and tools
