@@ -4,17 +4,19 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 
 ## A little more about me
 
-- 🌎 My dream is to travel around the world and experience different cultures and languages
-- 🇧🇷 I speak Portuguese as my mother tongue and English as a second language (intermediate level)
-- 🎵 I enjoy listening to music, watching movie and going out with friends in my free time
-- 🚀 I'm always eager to learn new things and challenge myself
-- 💬 Ask me about music, technology and cinema
+- 🌎 My biggest dream is to explore the world and experience different cultures.
+- 🇧🇷 I speak Portuguese as my mother tongue and English as a second language (intermediate level).
+- 🎵 I enjoy listening to music, watching movie and going out with friends in my free time.
+- 🚀 I'm constanly learning new things to gain fresh insights into my career.
+- 💬 Ask me about music, technology and cinema.
 
 ## My skills and tools
 
-- 💻 I have a basic knowledge of programming in C++ and JavaScript but I'm also intersted about learning the other languages.
-- 🌐 I getting some experience with QA Analyst by my currently job on UNESC Labs
-- 🛠️ I use GitHub and VSCode as my main tools
+- 💻 I'm learning some programming languages such as C++, JavaScript, HTML and CSS, and I'm eager to explore other languages as well.
+- 🌐 I getting experience with QA Analyst by my currently job on UNESC Labs, having worked with Cypress, BDD language, Ruby, MongoDB, PostgreSQL and RabbitMQ.
+- 🗃️ During my time in college, I've also acquires experience with databases such as MySQL and PostgreSQL.
+- 🛠️ I use GitHub and VSCode as my main tools.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
 
 ## How to reach me
 
