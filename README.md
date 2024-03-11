@@ -17,6 +17,8 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 - 🗃️ During my time in college, I've also acquires experience with databases such as MySQL and PostgreSQL.
 - 🛠️ I use GitHub and VSCode as my main tools.
 
+## Tools and Technologies
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>
 
 ## How to reach me
