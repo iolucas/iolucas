@@ -12,7 +12,7 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 ## My skills and tools
 
 - 💻 I have a basic knowledge of programming in C++ and JavaScript but I'm also intersted about learning the other languages.
-- 🌐 I getting some experience with QA Analyst by my currently job.
+- 🌐 I getting some experience with QA Analyst by my currently job on UNESC Labs
 - 🛠️ I use GitHub and VSCode as my main tools
 
 ## How to reach me
