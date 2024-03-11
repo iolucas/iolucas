@@ -39,7 +39,7 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 ## Statistics
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iolucas&layout=compact&langs_count=7&theme=holi"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=iolucas&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/iolucas">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iolucas&layout=compact&langs_count=7&theme=apprentice"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=iolucas&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
 </div>
