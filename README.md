@@ -8,6 +8,7 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 - 🇧🇷 I speak Portuguese as my mother tongue and English as a second language (intermediate level)
 - 🎵 I enjoy listening to music, watching movie and going out with friends in my free time
 - 🚀 I'm always eager to learn new things and challenge myself
+- 💬 Ask me about music, technology and cinema
 
 ## My skills and tools
 
