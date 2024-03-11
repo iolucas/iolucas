@@ -26,6 +26,6 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 
 - 📧 You can email me at lucasantunes11@icloud.com
 <div>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/iolucaz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
