@@ -23,6 +23,6 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 
 ## How to reach me
 
-- 📧 You can email me at <a href = "mailto:lucasantunes11@icloud.com">
+- 📧 You can email me at <a href = "mailto:lucasantunes11@icloud.com">lucasantunes11@icloud.com</a>
 - 💬 You can reach me on Instagram, my profile is @iolucaz
 
