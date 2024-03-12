@@ -5,7 +5,7 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 ## A little more about me
 
 - 🌎 My biggest dream is to explore the world and experience different cultures.
-- 🇧🇷 I speak Portuguese as my mother tongue and English as a second language (intermediate level).
+- 🇧🇷 I'm fluent in Portuguese, my mother tongue, and I have an intermediate level in English, which I can read, understand, and also speak.
 - 🎵 I enjoy listening to music, watching movie and going out with friends in my free time.
 - 🚀 I'm constanly learning new things to gain fresh insights into my career.
 - 💬 Ask me about music, technology and cinema.
