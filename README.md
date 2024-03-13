@@ -18,7 +18,7 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 - 🛠️ I use GitHub and VSCode as my main tools.
 
 ## Tools and technologies that I'm learning and working with
-<div>
+<div id="techs" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/>
