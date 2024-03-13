@@ -34,10 +34,10 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 ## How to reach me
 <div>
 <a href = "mailto:lucasantunes11@icloud.com">
-  <img src="https://img.shields.io/badge/Mail-blue?style=for-the-badgelogo=iCloud&logoColor=white" alt="iCloud Mail Badge"/>
+  <img src="https://img.shields.io/badge/Mail-blue?logo=iCloud&logoColor=white&style=for-the-badge" alt="iCloud Mail Badge"/>
 </a>
 <a href="https://instagram.com/iolucaz">
-  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badgelogo=Instagram&logoColor=pink" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-blue?logo=Instagram&logoColor=pink&style=for-the-badge" alt="Instagram Badge"/>
 </a>
 </div>
 
