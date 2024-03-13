@@ -37,7 +37,7 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
   <img src="https://img.shields.io/badge/Mail-blue?logo=iCloud&logoColor=white&style=for-the-badge" alt="iCloud Mail Badge"/>
 </a>
 <a href="https://instagram.com/iolucaz">
-  <img src="https://img.shields.io/badge/Instagram-darkpink?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-violet?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
 </a>
 </div>
 
