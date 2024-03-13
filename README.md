@@ -33,7 +33,7 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 
 ## How to reach me
 <div id="socials" align="center">
-<a href = "mailto:lucasantunes11@icloud.com">
+<a href = "mailto:lucasantunes11@icloud.com" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/Mail-blue?logo=iCloud&logoColor=white&style=for-the-badge" alt="iCloud Mail Badge"/>
 </a>
 <a href="https://instagram.com/iolucaz">
