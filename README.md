@@ -31,13 +31,16 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
-## How to reach me
+## How to found me
 <div id="socials" align="center">
 <a href = "mailto:lucasantunes11@icloud.com">
   <img src="https://img.shields.io/badge/Mail-blue?logo=iCloud&logoColor=white&style=for-the-badge" alt="iCloud Mail Badge"/>
 </a>
 <a href="https://instagram.com/iolucaz">
   <img src="https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+</a>
+<a href="https://github.com/iolucas">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=Github&logoColor=white&style=for-the-badge" alt="GitHub Baadge"/>
 </a>
 </div>
 
