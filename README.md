@@ -41,7 +41,7 @@ I'm a 21-year-old computer science student from Brazil, passionate about technol
 </a>
 </div>
 
-## Statistics
+## My stats
 
 <div id="statistics" align="center">
 <a href="https://github.com/iolucas">
