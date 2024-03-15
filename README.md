@@ -14,7 +14,7 @@
 ## My skills and tools
 
 - 💻 I'm learning some programming languages such as C++, JavaScript, HTML and CSS, and I'm eager to explore other languages as well.
-- 🌐 I getting experience with QA Analyst by my currently job on UNESC Labs, having worked with Cypress, BDD language, Ruby, MongoDB, PostgreSQL and RabbitMQ.
+- 🌐 I getting experience with QA Analyst by my currently job on UNESC Labs, having worked with Cypress, BDD language, Ruby, MongoDB and PostgreSQL.
 - 🗃️ During my time in college, I've also acquires experience with databases such as MySQL and PostgreSQL.
 - 🛠️ I use GitHub and VSCode as my main tools.
 
