@@ -50,5 +50,4 @@
 <div id="statistics" align="center">
 <a href="https://github.com/iolucas">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iolucas&layout=compact&langs_count=7&theme=transparent"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=iolucas&show_icons=true&theme=transparent&include_all_commits=true"/>
 </div>
