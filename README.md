@@ -16,7 +16,7 @@
 - 💻 I'm learning some programming languages such as C++, JavaScript, HTML and CSS, and I'm eager to explore other languages as well.
 - 🌐 I getting experience with automated testing by my currently work on UNESC Labs, having worked with Cypress, Gherkin language, Ruby, MongoDB and PostgreSQL.
 - 🗃️ During my time in college, I've also acquires experience with databases such as MySQL and PostgreSQL.
-- 🛠️ I use GitHub and VSCode as my main tools.
+- 🛠️ I use GitHub and VSCode as my main tools, and Windows and Linux as OS.
 
 ## Tools and technologies that I'm learning and working with
 <div id="techs" align="center">
