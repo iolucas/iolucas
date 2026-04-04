@@ -6,7 +6,7 @@
 ## A little more about me
 
 - 🌎 My biggest dream is to explore the world and experience different cultures.
-- 🇧🇷 I'm fluent in Portuguese, my mother tongue, and I have an intermediate level in English, which I can read, understand, and also speak.
+- 🇧🇷 I'm fluent in Portuguese, my mother tongue, and I'm fluent in English, which I can read, understand, and also speak.
 - 🎵 I enjoy listening to music, watching movie and going out with friends in my free time.
 - 🚀 I'm constanly learning new things to gain fresh insights into my career.
 - 💬 Ask me about music, technology and cinema.
