@@ -44,10 +44,3 @@
   <img src="https://img.shields.io/badge/GitHub-black?logo=Github&logoColor=white&style=for-the-badge" alt="GitHub Baadge"/>
 </a>
 </div>
-
-## My stats
-
-<div id="statistics" align="center">
-<a href="https://github.com/iolucas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iolucas&layout=compact&langs_count=7&theme=transparent"/>
-</div>
