@@ -1,49 +1,37 @@
 <div>
-  <h1 align="center">Hey there, I'm Lucas 👋</h1>
-  <p style="text-align: justify;">
-    I'm a 23-year-old Computer Science student from Brazil, focused on <b>Technical Precision</b> and <b>Software Quality</b>. Currently in my 5th period at UNESC, I apply an analytical and detail-oriented mindset to solve complex problems and ensure high-fidelity results in technology.
+  <h1 align="center">Hey, I'm Lucas 👋</h1>
+  <p align="center">
+    QA Analyst with 3+ years of experience in manual and automated testing, focused on E2E automation and API validation.
   </p>
 </div>
 
-## 🧠 Analytical Mindset
+## 🧪 About Me
 
-- 🎯 **High-Precision Focus:** 99th percentile accuracy in detail-oriented tasks and error detection.
-- 🔍 **QA Specialist:** Passionate about finding bugs and optimizing systems through automated testing.
-- 🎵 **Audiophile & Tech Enthusiast:** I value high-fidelity in everything—from lossless audio (FLAC/Hi-Res) to clean, efficient code.
-- 🚀 **Continuous Learning:** Constantly deep-diving into new documentations to gain fresh architectural insights.
+- 🔍 QA Analyst with hands-on experience at real-world environments (DEPS Tecnologia & UNESC Labs)
+- ⚙️ Strong focus on **test automation**, **bug detection**, and **software reliability**
+- 🧠 Highly detail-oriented, with proven accuracy in error detection and analytical tasks
+- 🚀 Constantly improving testing strategies and automation practices
 
-## 🛠️ My Skills and Tools
+## 🛠️ Tech Stack
 
-- 💻 **Programming:** Proficient in **C++** and **JavaScript**, with a strong foundation in Web Technologies (HTML5/CSS3).
-- 🧪 **Automated Testing:** Experienced in **Cypress**, **Gherkin**, and **Ruby**. I've worked on automation pipelines at UNESC Labs.
-- 🗃️ **Databases:** Solid experience managing and querying **PostgreSQL**, **MySQL**, and **MongoDB**.
-- 🛠️ **Environment:** Daily user of **Linux** and **Windows**, using **VS Code** and **Git** as my primary development ecosystem.
+- **Testing:** Cypress, Gherkin (BDD), API Testing (Postman / Insomnia)
+- **Languages:** JavaScript, C++
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, Azure DevOps
+- **Environment:** Linux, Windows
 
-## 🚀 Technologies I'm Working With
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" alt="C++"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JS"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40" alt="Cypress"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width="40" height="40" alt="Gherkin"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgres"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/></td>
-  </tr>
-</table>
+## 🚀 What I Do
 
-## 💬 Let's talk about
-Ask me about **Software Testing**, **High-Fidelity Audio**, **Cinematography**, or **Cosmology**. I prefer deep conversations over small talk.
+- Build and maintain **E2E automated test suites**
+- Perform **API validation** (manual & automated)
+- Manage bugs and workflows using **Azure DevOps**
+- Create technical documentation to support team onboarding
 
-## How to find me
-<div id="socials" align="center">
-<a href="mailto:lucasantunes11@icloud.com">
-  <img src="https://img.shields.io/badge/Mail-blue?logo=iCloud&logoColor=white&style=for-the-badge" alt="iCloud Mail"/>
-</a>
-<a href="https://instagram.com/iolucaz">
-  <img src="https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
-</a>
-<a href="https://github.com/iolucas">
-  <img src="https://img.shields.io/badge/GitHub-black?logo=Github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-</a>
-</div>
+## 💬 Interests
+
+Software Testing • High-Fidelity Audio • Technology • Systems
+
+## 📫 Contact
+
+- Email: lucasantunes11@icloud.com
+- Instagram: @iolucaz
