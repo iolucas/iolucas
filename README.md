@@ -32,6 +32,4 @@
 Software Testing • High-Fidelity Audio • Technology • Systems
 
 ## 📫 Contact
-
-- Email: lucasantunes11@icloud.com
-- Instagram: @iolucaz
+<div id="socials" align="center"> <a href="mailto:lucasantunes11@icloud.com"> <img src="https://img.shields.io/badge/Mail-blue?logo=iCloud&logoColor=white&style=for-the-badge" alt="iCloud Mail"/> </a> <a href="https://instagram.com/iolucaz"> <img src="https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"/> </a> <a href="https://github.com/iolucas"> <img src="https://img.shields.io/badge/GitHub-black?logo=Github&logoColor=white&style=for-the-badge" alt="GitHub"/> </a> </div>
